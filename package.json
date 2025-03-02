@@ -1,0 +1,29 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is React by Raghu Kiran",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raghukiran4590/React.git"
+  },
+  "keywords": [
+    "react",
+    "React",
+    "Raghu",
+    "Kiran",
+    "raghukiran4590"
+  ],
+  "author": "Raghu Kiran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raghukiran4590/React/issues"
+  },
+  "homepage": "https://github.com/raghukiran4590/React#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}

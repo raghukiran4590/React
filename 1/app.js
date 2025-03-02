@@ -19,3 +19,6 @@ React.createElement("div2", { id: "parent2" }, React.createElement("div2", { id:
     ]))];
 const root2 = ReactDOM.createRoot(document.getElementById("root2"));
 root2.render(parent);
+
+
+
